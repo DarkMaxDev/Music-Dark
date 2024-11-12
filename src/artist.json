@@ -1,0 +1,47 @@
+{
+    "name": "Mis Canciones Favoritas",
+    "albumCover": "/images/albumCovers/Album.png",
+    "releaseYear": "2022",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Kill Bill",
+            "path": "/songs/SZA - Kill Bill.mp3"
+        },
+        {
+            "id": 2,
+            "name": "ZERO",
+            "path": "/songs/LMYK0.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Let It Happen",
+            "path": "/songs/Tame Impala.mp3"
+        },
+        {
+            "id": 4,
+            "name": "Borderline",
+            "path": "/songs/Borderline.mp3"
+        },
+        {
+            "id": 5,
+            "name": "End Of Beginning",
+            "path": "/songs/End Of Beginning.mp3"
+        },
+        {
+            "id": 6,
+            "name": "Tame Impala",
+            "path": "/songs/Tame Impala.mp3"
+        },
+        {
+            "id": 7,
+            "name": "Kiss It Better",
+            "path": "/songs/Kiss It Better.mp3"
+        },
+        {
+            "id": 8,
+            "name": "LET THE WORLD BURN",
+            "path": "/songs/LET THE WORLD BURN.mp3"
+        }
+    ]
+}
