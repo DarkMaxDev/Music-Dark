@@ -1,5 +1,7 @@
 # music-dark
 
+It is a small copy of the Spotify design but simple and with its own touch to make the page a little more attractive, it is still in development, this project is just a preview of what is planned to be done in the future.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
